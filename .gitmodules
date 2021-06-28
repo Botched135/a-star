@@ -1,0 +1,6 @@
+[submodule "test/doctest"]
+	path = test/doctest
+	url = git@github.com:onqtam/doctest.git
+[submodule "fmt"]
+	path = fmt
+	url = git@github.com:fmtlib/fmt.git
